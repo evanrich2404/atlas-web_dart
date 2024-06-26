@@ -18,7 +18,6 @@ Future<double> calculateTotal() async {
     }
     return total;
   } catch (e) {
-    print('error caught: $e');
     return -1;
   }
 }
