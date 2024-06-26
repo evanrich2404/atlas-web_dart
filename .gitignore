@@ -2,3 +2,4 @@
 *.yaml
 .dart_tool
 *.lock
+util.dart
